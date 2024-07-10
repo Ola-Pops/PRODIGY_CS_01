@@ -11,4 +11,4 @@ Its a Caesar Cipher python code that encrypts, decrypts with shift and by brute 
 
 [1]: ./Images/Encryption.png "Encryption"
 [2]: ./Images/Decryption00.png "Decryption with Shift"
-[2]: ./Images/Decryption01.png "Decryption by Brute"
+[3]: ./Images/Decryption01.png "Decryption by Brute"
